@@ -15,4 +15,7 @@ We store a set of RFID card data in our system, say 2 to 4 RFID card data. When 
 
 
   
-I have used Gobetwion softwere because to take system time and date it is not possible to take in arduno using serial interface so uou have to used RTC Module(real time clock) or just used this softwere which communicate with arduno and system 
+I have used Gobetwion softwere because to take system time and date it is not possible to take in arduno using serial interface so uou have to used RTC Module(real time clock) or just used this softwere which communicate with arduno and system   
+  
+Link-http://mikmo.dk/gobetwinodownload.html  
+Download from above link or i have also uploded zip file on github
