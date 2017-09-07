@@ -4,7 +4,8 @@ The Basic necessity of security can be attained by designing various door locks 
 We store a set of RFID card data in our system, say 2 to 4 RFID card data. When the person with the right RFID card (compatible to data preloaded in our program/system) come and swipes his RFID tag, access will be granted. When the person with the wrong RFID card (whose data is not loaded in our system) swipes his RFID tag, access will be denied.[5]
   
      
-Component Require fro this project  
+Component Require fro this project 
+    
 Software:-   
 -	Arduino IDE(1.8.3)  
 -	Gobetwino (beta)    
