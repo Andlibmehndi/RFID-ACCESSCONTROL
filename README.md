@@ -13,3 +13,6 @@ The Basic necessity of security can be attained by designing various door locks 
 We store a set of RFID card data in our system, say 2 to 4 RFID card data. When the person with the right RFID card (compatible to data preloaded in our program/system) come and swipes his RFID tag, access will be granted. When the person with the wrong RFID card (whose data is not loaded in our system) swipes his RFID tag, access will be denied.[5]
  
 
+
+  
+I have used Gobetwion softwere because to take system time and date it is not possible to take in arduno using serial interface so uou have to used RTC Module(real time clock) or just used this softwere which communicate with arduno and system 
